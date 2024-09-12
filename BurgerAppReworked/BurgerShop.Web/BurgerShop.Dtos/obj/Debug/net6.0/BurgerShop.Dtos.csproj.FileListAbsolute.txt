@@ -1,0 +1,15 @@
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\bin\Debug\net6.0\BurgerShop.Dtos.deps.json
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\bin\Debug\net6.0\BurgerShop.Dtos.dll
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\bin\Debug\net6.0\BurgerShop.Dtos.pdb
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\bin\Debug\net6.0\BurgerShop.Domain.dll
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\bin\Debug\net6.0\BurgerShop.Domain.pdb
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.AssemblyInfo.cs
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.csproj.CopyComplete
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.dll
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\refint\BurgerShop.Dtos.dll
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\BurgerShop.Dtos.pdb
+C:\Users\justi\Desktop\BurgerAppReworked\BurgerShop.Web\BurgerShop.Dtos\obj\Debug\net6.0\ref\BurgerShop.Dtos.dll
